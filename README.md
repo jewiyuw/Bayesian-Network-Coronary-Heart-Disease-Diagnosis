@@ -1,1 +1,1 @@
-# Bayesian-Network-Coronary-Heart-Disease-Diagnosis
+# Bayesian-Network-Osteoporosis-and-Osteoarthritis-Diagnosis
